@@ -6,12 +6,13 @@ body {
 }
 
 h1{
-	font-size: 14px;
+	font-size: 30px;
 	text-align: center;
 }
 
-.controls .result{
+.controls{
 	margin:auto;
+	text-align: center;
 }
 
 .result {
