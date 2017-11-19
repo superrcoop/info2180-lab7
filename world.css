@@ -18,3 +18,8 @@ h1{
 .result {
 	font-size: 12px
 }
+
+input {
+	width: 500px;
+    height:30px;
+}
